@@ -1,1 +1,1 @@
-This is a ReadME file ;)
+npx create-next-app my-app -e https://github.com/Marj-11/my-nextjs-starter
